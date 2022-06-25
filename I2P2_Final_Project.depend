@@ -1,0 +1,407 @@
+# depslib dependency file v1.0
+1640531438 source:d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\title.cpp
+	"Title.h"
+
+1640531396 d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\title.h
+	"Main.h"
+
+1642428591 d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\main.h
+	<cstdlib>
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_acodec.h>
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\alplatf.h
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\alandroidcfg.h
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\alunix.h
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\keycodes.h
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\alcompat.h
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1615199857 d:\programming\c++\i2p2\i2p2_final_project\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1642429426 source:d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\main.cpp
+	"Main.h"
+	"Draw.h"
+	"Audio.h"
+	"Entity.h"
+	"Screen.h"
+	"Player.h"
+	<allegro5/display.h>
+
+1642433779 d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\draw.h
+	<allegro5/allegro_font.h>
+	<allegro5/allegro.h>
+	<vector>
+	"Util.h"
+
+1642389454 d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\entity.h
+	<iostream>
+	"Util.h"
+
+1642316545 source:d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\draw.cpp
+	"Draw.h"
+	<allegro5/allegro_primitives.h>
+
+1642387877 d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\screen.h
+	"Draw.h"
+	"Audio.h"
+
+1642436873 source:d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\screen.cpp
+	"Screen.h"
+	"Draw.h"
+	"Util.h"
+	"Battle.h"
+	"GameScreen.h"
+	"Main.h"
+	"Player.h"
+	<allegro5/events.h>
+
+1642401047 d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\audio.h
+	<algorithm>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Main.h"
+	"Util.h"
+
+1642317074 d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\util.h
+	"Main.h"
+
+1640835846 source:d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\util.cpp
+	"Util.h"
+
+1642417411 d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\player.h
+	"Entity.h"
+	"Screen.h"
+	"Card.h"
+
+1642238467 d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\card.h
+	"Entity.h"
+	"Main.h"
+	"Util.h"
+
+1642429329 source:d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\battle.cpp
+	"Battle.h"
+	"Entity.h"
+	"Player.h"
+	"Screen.h"
+	"Util.h"
+	"Main.h"
+	"GameScreen.h"
+	"Draw.h"
+	<allegro5/events.h>
+
+1642401887 d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\battle.h
+	"Screen.h"
+	"Entity.h"
+	"Card.h"
+
+1641219700 source:d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\player.cpp
+	"Player.h"
+
+1642429437 source:d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\gamescreen.cpp
+	"GameScreen.h"
+
+1642403959 d:\programming\c++\i2p2\i2p2_final_project\i2p-final-project\gamescreen.h
+	"Screen.h"
+	"Card.h"
+	"Battle.h"
+	"Player.h"
+	"Main.h"
+
